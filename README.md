@@ -1,7 +1,7 @@
 # JOURNEY AROUND THE WORLD
 >This project uses color theory to apply styles to a simple web page.
 
-Click [https://augustine-ok.github.io/journey-around-the-world](https://augustine-ok.github.io/journey-around-the-world)
+Click [https://augustine-ok.github.io/journey-around-the-world](https://augustine-ok.github.io/journey-around-the-world) to view in browser.
 
 <!-- >This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
